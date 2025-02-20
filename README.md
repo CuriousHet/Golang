@@ -1,6 +1,5 @@
 ## This repository contains multiple Go programs, each demonstrating different functionalities.  
 
--- 
 
 Before running a project, ensure Go is installed and properly set up.  
 
