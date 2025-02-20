@@ -10,23 +10,22 @@
    Server running on :8080
    ```
 
-#### ** Test the Endpoint **
+#### Test the Endpoint 
 - Open another terminal and run:
   ```sh
   curl http://localhost:8080/greet
   ```
-- Or else open browser on 
-``` 127.0.0.1:8080/greet
+- Or else open browser on 127.0.0.1:8080/greet
 
-- **Expected Output:**
-  ```
+- Expected Output:
+  ```sh
   Jay Shree Ram
   ```
 
 This project is a simple HTTP server in Go that handles a **GET** request to return `"Jay Shree Ram"` as a response. It includes unit tests using `httptest` to validate the server's behavior.
 
+![alt text](image-3.png)
+
 ![alt text](image-1.png)
 
-![alt text](image-2.png)
-
-![alt text](image.png)
+![alt text](image-4.png)
