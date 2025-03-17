@@ -9,6 +9,6 @@ A simple Go microservice that fetches random cat facts.
 
 ```sh
 make run
-
+```
 
 ![alt text](image.png)
